@@ -1,0 +1,29 @@
+header{
+    color: rgb(80, 9, 80);
+}
+h1{
+    background-color: rgb(255, 243, 226);
+    color: rgb(11, 11, 70);
+}
+main{
+    background-color: rgb(228, 216, 199);
+    color: rgb(5, 5, 59);
+}
+h2{
+    color: darkslategray;
+}
+#destaque{
+    color: rgb(7, 54, 39);
+}
+footer p{
+    color: #4d3a3a;
+}
+.p_big{
+    font-size: larger;
+}
+.imp{
+    background-color: rgb(247, 226, 200);
+}
+.par{
+    background-color: beige;
+}
